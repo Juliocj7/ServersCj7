@@ -24,7 +24,8 @@
 
 
 ## Menú Principal :
-![Screenshot_20210815-231829_Termux](https://user-images.githubusercontent.com/81049859/129509535-130d7360-0b27-4e59-80b8-04d06c3579ac.png)
+![Screenshot_20220521-233430_Termux](https://user-images.githubusercontent.com/81049859/169680457-feb2f0d2-edcf-450a-be88-b6422ba16231.png)
+
 
 
 ## ShodanCj7 :
