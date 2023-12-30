@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221227-154243_Termux](https://user-images.githubusercontent.com/81049859/209715524-23aa5a24-6c18-4b5a-acc1-b2ea2b38e8e7.png)
+![1000285757](https://github.com/Juliocj7/ShodanCj7/assets/81049859/f4f21732-df12-490e-9ba4-ad414d929fce)
 
 ## ShodanCj7 :
 * Instala **Shodan** en Termux correctamente y sin errores.
