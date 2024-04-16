@@ -46,7 +46,7 @@ ______________________________________________________
 ![1000285757](https://github.com/Juliocj7/ShodanCj7/assets/81049859/f4f21732-df12-490e-9ba4-ad414d929fce)
 
 ## ShodanCj7 :
-* Instala **Shodan** en Termux correctamente y sin errores.
+* Instalación de **Shodan** en Termux correctamente y sin errores.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
@@ -54,17 +54,18 @@ ______________________________________________________
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/ShodanCj7 `
-
-* ` cd ShodanCj7 `
-
-* ` chmod +x * `
-
-* ` ./ShodanCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/ShodanCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd ShodanCj7 && chmod +x * && ./ShodanCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
