@@ -53,7 +53,7 @@ ______________________________________________________
 |![1000342434](https://github.com/Juliocj7/ServersCj7/assets/81049859/9f67fa7a-b251-46f9-b007-675fa394e997)|![1000342435](https://github.com/Juliocj7/ServersCj7/assets/81049859/5883d2b9-b3ed-4f35-a425-6af2fff07010)|
 
 ## ServersCj7 :
-* Instalación de **Ngrok Localtunnel LocalXpose** y **Cloudflared** (servidores de redireccionamiento de puertos) en Termux.
+* Instalación correcta y sin errores de **Ngrok Localtunnel LocalXpose** y **Cloudflared** (servidores de redireccionamiento de puertos) en Termux.
 * Instalación según la arquitectura de tu dispositivo más aplicado de parches para hacerlos totalmente funcionales.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
