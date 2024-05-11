@@ -43,13 +43,13 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000342311](https://github.com/Juliocj7/ServersCj7/assets/81049859/aa992cdb-0a2d-4254-a13a-d48505fc236e)
+![1000342431](https://github.com/Juliocj7/ServersCj7/assets/81049859/a73ae19b-063c-4c44-93f8-3500111164fb)
 
 |ngrok|loclx|
 |:---:|:---:|
-|![1000342332](https://github.com/Juliocj7/ServersCj7/assets/81049859/79df1cbd-29bb-446c-aabc-210eae0bf57b)|![1000342331](https://github.com/Juliocj7/ServersCj7/assets/81049859/15a997f8-b5cb-4ad2-8259-bd6996572d02)|
+|![1000342432](https://github.com/Juliocj7/ServersCj7/assets/81049859/e7db3586-1255-462b-8468-f00c6f19aa7a)|![1000342433](https://github.com/Juliocj7/ServersCj7/assets/81049859/568efc23-6f48-49d6-b507-a8231d7a22a1)|
 |cloud|ltunel|
-|![1000342326](https://github.com/Juliocj7/ServersCj7/assets/81049859/746ac230-26af-491f-a870-d3ad18bd4fab)|![1000342328](https://github.com/Juliocj7/ServersCj7/assets/81049859/8c300858-5f8d-40c8-97a4-54f9f26d7635)|
+|![1000342434](https://github.com/Juliocj7/ServersCj7/assets/81049859/9f67fa7a-b251-46f9-b007-675fa394e997)|![1000342435](https://github.com/Juliocj7/ServersCj7/assets/81049859/5883d2b9-b3ed-4f35-a425-6af2fff07010)|
 
 ## ServersCj7 :
 * Instalación de **Ngrok Localtunnel LocalXpose** y **Cloudflared** (servidores de redireccionamiento de puertos) en Termux.
